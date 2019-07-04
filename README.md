@@ -27,7 +27,7 @@ The proposed algorithm does not require any optimization on the discriminator ne
 Following figure shows the performance of the proposed GN-RD algorithm for learning generative network to create samples from MNIST dataset. The generated samples shows that GN-RD quickly converges and generates promising samples.
 
 <p align="center">
-  <img width="500" height="165" src="https://github.com/babakbarazandeh/GN-RD/blob/master/Results.jpg">
+  <img width="500" height="130" src="https://github.com/babakbarazandeh/GN-RD/blob/master/Results.jpg">
 </p> <br/>
 
 # Getting started
