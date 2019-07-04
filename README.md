@@ -20,7 +20,7 @@ the Naïve EM algorithm in almost all scenarios.
 # Summary of the proposed algorithm
 The proposed algorithm does not require any optimization on the discriminator network and only needs randomly generated discriminator to learn the underlying distribution of the data.
 <p align="center">
-  <img width="380" height="350" src="https://github.com/babakbarazandeh/Stochastic-multi-objective-EM/blob/master/Algorithm.jpg">
+  <img width="380" height="200" src="https://github.com/babakbarazandeh/Stochastic-multi-objective-EM/blob/master/Algorithm.jpg">
 </p>
  
 # Reuslts 
