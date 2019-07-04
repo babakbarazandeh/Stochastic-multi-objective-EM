@@ -18,13 +18,13 @@ components of a mixture model. Our numerical experiments show that our algorithm
 the Naïve EM algorithm in almost all scenarios.
 
 # Summary of the proposed algorithm
-The proposed algorithm does not require any optimization on the discriminator network and only needs randomly generated discriminator to learn the underlying distribution of the data.
+The idea behind the proposed algorithm is that each sampled value of penalty value leads to different set of spurious local optima. However, if a point̂ is a fixed point of EM algorithm for any value of pentlay term,it must be a stationary point of the Maximum Likelihood Estimation (MLE) function and also it should satisfy the first moment condition.
 <p align="center">
   <img width="380" height="250" src="https://github.com/babakbarazandeh/Stochastic-multi-objective-EM/blob/master/Algorithm.jpg">
 </p>
  
 # Reuslts 
-Following figure shows the performance of the proposed GN-RD algorithm for learning generative network to create samples from MNIST dataset. The generated samples shows that GN-RD quickly converges and generates promising samples.
+Following figure shows the performance  of the proposed algorithm.  As  can  be  seen  from  this  figure,  the  proposed method significantly improves the percentage of times that a random initialization converges to the ground truth parameter.
 
 <p align="center">
   <img width="500" height="130" src="https://github.com/babakbarazandeh/GN-RD/blob/master/Results.jpg">
