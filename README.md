@@ -13,7 +13,7 @@ and  show  that every local optimum of the population maximum likelihood estimat
 Then, we prove that the EM algorithm converges to the ground truth parameters almost surely with random initialization. 
 Our result extends the  existing  results  for  Gaussian  distribution  to  Laplacian distribution.  
 Then  we  numerically  study  the  behavior  of mixture models with more than two components.
-Motivatedby our extensive numerical experiments, we propose a novel stochastic method for estimating the mean of 
+Motivated by our extensive numerical experiments, we propose a novel stochastic method for estimating the mean of 
 components of a mixture model. Our numerical experiments show that our algorithm outperforms 
 the Naïve EM algorithm in almost all scenarios.
 
