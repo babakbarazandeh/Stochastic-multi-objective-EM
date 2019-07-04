@@ -24,19 +24,23 @@ The idea behind the proposed algorithm is that each sampled value of penalty val
 </p>
  
 # Reuslts 
-Following figure shows the performance of the proposed algorithm for different data dimension (d) and number of components (K). The  proposed method significantly improves the percentage of times that a random initialization converges to the ground truth parameter.
+Following figure shows the performance of the proposed algorithm for different data dimension (d) and number of components (K). As shown in the figures, the  proposed method significantly improves the percentage of times that a random initialization converges to the ground truth parameter.
 
 <p align="center">
   <img width="500" height="200" src="https://github.com/babakbarazandeh/Stochastic-multi-objective-EM/blob/master/Result.jpg">
 </p> <br/>
 
 # Getting started
-After installing Tensorflow, run Main.py
+Run Main.m
 
 # Citation 
-@article{barazandeh2019training,<br/>
-  title={Training generative networks using random discriminators},<br/>
-  author={Barazandeh, Babak and Razaviyayn, Meisam and Sanjabi, Maziar},<br/>
-  journal={arXiv preprint arXiv:1904.09775},<br/>
-  year={2019}
+@inproceedings{barazandeh2018behavior,<br/>
+  title={On the Behavior of the Expectation-Maximization Algorithm for Mixture Models},<br/>
+  author={Barazandeh, Babak and Razaviyayn, Meisam},<br/>
+  booktitle={2018 IEEE Global Conference on Signal and Information Processing (GlobalSIP)},<br/>
+  pages={61--65},<br/>
+  year={2018},<br/>
+  organization={IEEE}
 }
+
+
