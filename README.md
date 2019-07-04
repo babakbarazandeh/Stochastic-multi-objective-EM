@@ -20,7 +20,7 @@ the Naïve EM algorithm in almost all scenarios.
 # Summary of the proposed algorithm
 The idea behind the proposed algorithm is that each sampled value of penalty value leads to different set of spurious local optima. However, if a point̂ is a fixed point of EM algorithm for any value of pentlay term,it must be a stationary point of the Maximum Likelihood Estimation (MLE) function and also it should satisfy the first moment condition.
 <p align="center">
-  <img width="380" height="250" src="https://github.com/babakbarazandeh/Stochastic-multi-objective-EM/blob/master/Algorithm.jpg">
+  <img width="380" height="300" src="https://github.com/babakbarazandeh/Stochastic-multi-objective-EM/blob/master/Algorithm.jpg">
 </p>
  
 # Reuslts 
