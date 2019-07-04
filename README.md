@@ -27,7 +27,7 @@ The idea behind the proposed algorithm is that each sampled value of penalty val
 Following figure shows the performance of the proposed algorithm for different data dimension (d) and number of components (K). The  proposed method significantly improves the percentage of times that a random initialization converges to the ground truth parameter.
 
 <p align="center">
-  <img width="300" height="110" src="https://github.com/babakbarazandeh/Stochastic-multi-objective-EM/blob/master/Result.jpg">
+  <img width="500" height="200" src="https://github.com/babakbarazandeh/Stochastic-multi-objective-EM/blob/master/Result.jpg">
 </p> <br/>
 
 # Getting started
