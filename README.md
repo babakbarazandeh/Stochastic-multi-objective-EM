@@ -1,6 +1,6 @@
 
 # Stochastic multi-objective EM
-Implementation code for the proposed Stochastic multi-objective EM, published in the processing of the 2018 IEEE Global Conference on Signal and Information Processing (GlobalSIP). [Link to Paper](https://arxiv.org/pdf/1809.08705.pdf)
+Implementation code for the proposed Stochastic multi-objective EM, published in the proceedings of the 2018 IEEE Global Conference on Signal and Information Processing (GlobalSIP). [Link to Paper](https://arxiv.org/pdf/1809.08705.pdf)
 # Abstract 
 Finite  mixture  models  are  among  the  most  popular  statistical  models  used  in  different  data  science
 disciplines. Despite  their  broad  applicability,  inference  under  these models typically leads to computationally 
